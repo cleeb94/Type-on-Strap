@@ -12,3 +12,5 @@ Beforehand I studied Sociology and Physics in my bachelors also at the Universit
 
 Through the content of courses about Complex Systems I became fascinated with the content and phenomenon of networks.
 
+Do you have questions? Feel free to send me an e-mail with the icon provided on every page at the bottom!
+
