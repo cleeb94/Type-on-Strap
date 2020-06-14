@@ -1,43 +1,55 @@
 ---
 layout: post
-title: Color Post
-tags: [Test, Color, Markdown]
-color: brown
-author: sylhare
+title: Narrative "5G"
+feature-img: assets/img/pexels/red.jpg
+tags: [5G, Narrative, Conspiracy Theory, Results, Project]
 excerpt_separator: <!--more-->
 ---
 
-# What a colorful post!
-
-This is an idea that came from [xukimseven/HardCandy-Jekyll](https://github.com/xukimseven/HardCandy-Jekyll) 
-looking at this cheerful and colorful them, I wanted to enable something similar for mine.
-
-You can go fork and star hers too! 😉
-
+One of the qualitatively extracted narratives concerned 5G.
 <!--more-->
+### Claims associated with the narrative
 
-## How does it work?
+- the 5G network correlates with COVID-19 and is the danger
+- the 5G radio masks transmit COVID-19
 
-Basically you need to add just one thing, the color:
+### Associated words
+Matches within the data set for the following words were collected.
 
-```yml
----
-layout: post
-title: Color Post
-color: brown
----
-```
 
-It can either be a html color like `brown` (which look like red to me). Or with the rgb:
+#### German
+| German words   |    | 
+|----    |----     | 
+|  "5G"     | "funkmast"        | 
+|"netzabdeckung"    | "funkmasten"| 
+| "netz"    | "strahlen"    |
+|"mast"|"strahlung"    |
+|"masten"     | "4G"|
+|"telefonmast"   | "telefonmasten"   |   
 
-```yml
----
-layout: post
-title: Color Post
-color: rgb(165,42,42)
----
-```
 
-The background used is `lineart.png` from [xukimseven](https://github.com/xukimseven) you can edit it in the config file. 
-If you want another one, put it in `/assets/img` as well. 
-> ⚠️ It's a bit hacking the css in the `post.html`
+#### English
+|  English words   |    | 
+|----    |----     | 
+|  "5G"     | "radio mast"        | 
+|"network coverage"    | "radio masts"| 
+| "network"    | "rays"    |
+|"mast"|"radiation"    |
+|"masts"     | "4G"|
+|"telephone poles"   | "telephone pole"   |   
+
+### Relative frequency of comments associated with narrative
+<img src="\covidinfspreading\assets\img\results\5G.png" alt="5G" width="500"/>
+
+### Most active users associated with narrative
+
+<img src="\covidinfspreading\assets\img\results\5G\2good2beBlue5G_activity_all_final.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\5G\alexanderletten5G_activity_all_final.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\5G\Ancalagon the Black5G_activity_all_final.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\5G\Calzini Bianchi5G_activity_all_final.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\5G\DevilsKitty5G_activity_all_final.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\5G\Noarntrails5G_activity_all_final.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\5G\pibyte5G_activity_all_final.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\5G\to much cold coffee5G_activity_all_final.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\5G\Wanda Stock5G_activity_all_final.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\5G\Wo woar mei Leistung5G_activity_all_final.png" alt="user" width="500"/>
