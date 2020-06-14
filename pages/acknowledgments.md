@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/idea_zu.png"
 tags: [Acknowledgments, Complexity Science Hub, CSH, Support]
 ---
 
-This project was created in cooperation with the [Complexity Science Hub Vienna](https://www.csh.ac.at/) and the support of my fast-responding and motived mentors [Max Pellert](https://www.csh.ac.at/researcher/max-pellert/) and [David Garcia](https://www.csh.ac.at/researcher/david-garcia/).
+This project was created in cooperation with the [Complexity Science Hub Vienna](https://www.csh.ac.at/) and the support of my fast-responding and motivated mentors [Max Pellert](https://www.csh.ac.at/researcher/max-pellert/) and [David Garcia](https://www.csh.ac.at/researcher/david-garcia/).
 
 The qualitative extraction of the narratives investigated was possible through the cooperation and work of the Austrian fakt-checking webiste [mimikama.at](https://www.mimikama.at/).
 
