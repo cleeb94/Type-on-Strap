@@ -8,7 +8,7 @@ tags: [Project, Background information, Information, Motivation, Corona, COVID-1
 
 Even though, historically, pandemics seem to be the rule rather than the exception, the scope of the COVID-19 outbreak poses novel challenges due to the high global interconnectivity nowadays. But it is not only the disease that spreads rapidly. The term infodemic emphasizes the critical role of the spreading of (mis)information [1]. 
 
-
+<!--more-->
 The COVID-19 pandemic disrupted lives profoundly. The global population is facing challenges that can lead to worries and sometimes even fear. Anxiousness and insecurity are common in difficult times. In the quickly changing (social) media landscape this leads to uninformed beliefs, the spread of fake news [2] and sometimes even conspiracy theories. People’s behavior and social response can be influenced, altering the epidemic process and effectiveness of countermeasures [1] which is why social media analysis becomes essential. 
 
 
