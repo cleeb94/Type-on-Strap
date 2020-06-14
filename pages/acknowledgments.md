@@ -3,7 +3,7 @@ layout: page
 title: Acknowledgments
 permalink: /acknowledgments/
 feature-img: "assets/img/pexels/idea.jpg"
-tags: [Acknowledgments]
+tags: [Acknowledgments, Complexity Science Hub, CSH, Support]
 ---
 
 This project was created in cooperation with the [Complexity Science Hub Vienna](https://www.csh.ac.at/) and the support of my fast-responding and motived mentors [Max Pellert](https://www.csh.ac.at/researcher/max-pellert/) and [David Garcia](https://www.csh.ac.at/researcher/david-garcia/).
