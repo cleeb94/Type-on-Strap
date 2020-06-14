@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About]
+tags: [About, Author, Contact]
 ---
 
 My name is Constanze Leeb and I am currently studying [Cognitive Science](https://www.meicogsci.eu/) and [Physics](https://physik.univie.ac.at/en/) in my masters at the [University of Vienna](https://www.univie.ac.at/en/).
