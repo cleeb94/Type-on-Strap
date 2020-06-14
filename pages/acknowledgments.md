@@ -2,7 +2,7 @@
 layout: page
 title: Acknowledgments
 permalink: /acknowledgments/
-feature-img: "assets/img/pexels/idea.jpg"
+feature-img: "assets/img/pexels/idea_zu.png"
 tags: [Acknowledgments, Complexity Science Hub, CSH, Support]
 ---
 
