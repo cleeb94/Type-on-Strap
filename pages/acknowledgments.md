@@ -14,5 +14,5 @@ Another thanks goes to Manuel Müller for his ideas and inspirations concerning 
 
 <img src="\covidinfspreading\assets\img\csh.jpg" alt="CSH" width="300"/>
 <img src="\covidinfspreading\assets\img\MEiCogSci-Logo-Vienna-RGB.jpg" alt="MEI:CogSci" width="300"/>
-<img src="\covidinfspreading\assets\img\Uni_Logo_2016.jpg" alt="Uni Wien" width="300"/>
+<img src="\covidinfspreading\assets\img\Uni_Logo_2016.jpg" alt="Uni Wien" width="400"/>
 
