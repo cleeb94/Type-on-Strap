@@ -16,6 +16,9 @@ What topics are relevant for Austrian active online during the first month (27/0
 
 #### 4 Topics
 <img src="\covidinfspreading\assets\img\results\topic\4_topics_first_month.svg" alt="4 Topics" width="500"/>
+
+[4 Topics](\covidinfspreading\assets\img\results\topic\4_topics_first_month.html)
+
 <img src="\covidinfspreading\assets\img\results\topic\4_topics_first_month.json" alt="4 Topics" width="500"/>
 
 #### 6 Topics
