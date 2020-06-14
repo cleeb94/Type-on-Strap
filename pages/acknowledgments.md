@@ -2,7 +2,7 @@
 layout: page
 title: Acknowledgments
 permalink: /acknowledgments/
-feature-img: "assets/img/pexels/teach.jpg"
+feature-img: "assets/img/pexels/idea.jpg"
 tags: [Acknowledgments]
 ---
 
@@ -12,4 +12,3 @@ The qualitative extraction of the narratives investigated was possible through t
 
 Another thanks goes to Manuel Müller for his ideas and inspirations concerning statistical methods and their practical applications and to Surya Knöbel for his content recommendations and inputs. 
  
-
