@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/motherboard.jpeg"
+feature-img: "assets/img/pexels/group_zu.png"
 tags: [About, Author, Contact]
 ---
 
