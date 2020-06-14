@@ -5,9 +5,6 @@ feature-img: assets/img/pexels/network.jpg
 author: Constanze Leeb
 tags: [Project, Data set, Standard, Liveticker, most active users]
 ---
-
-# The data set
-
 ## Hard Facts
 
 - comments of 91 Live-tickers of *der Standard*
@@ -18,5 +15,5 @@ tags: [Project, Data set, Standard, Liveticker, most active users]
 
 ## Most active users
 
-![most_active](\covidinfspreading\assets\img\results\overall\tabelle_most_active.png)
+<img src="\covidinfspreading\assets\img\results\Overall\tabelle_most_active.png" alt="most_active" width="400"/>
 
