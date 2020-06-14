@@ -3,8 +3,10 @@ layout: post
 title: Narrative "Refugees"
 feature-img: assets/img/pexels/blue.jpg
 tags: [Refugees, Narrative, Conspiracy Theory, Results, Project]
+date: 2020-06-14
 excerpt_separator: <!--more-->
 ---
+![image]({{ page.img | relative_url }})
 One of the qualitatively extracted narratives concerns Refugees.
 <!--more-->
 ### Claims associated with the narrative
