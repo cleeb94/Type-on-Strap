@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The data set
-feature-img: assets/img/pexels/covid19.jpg
+feature-img: assets/img/pexels/network.jpg
 author: Constanze Leeb
 tags: [Project, Data set, Standard, Liveticker, most active users]
 ---
