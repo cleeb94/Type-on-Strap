@@ -4,6 +4,7 @@ title: The data set
 feature-img: assets/img/pexels/network.jpg
 author: Constanze Leeb
 tags: [Project, Data set, Standard, Liveticker, most active users]
+excerpt_separator: <!--more-->
 ---
 Let's look at the data set:
 
