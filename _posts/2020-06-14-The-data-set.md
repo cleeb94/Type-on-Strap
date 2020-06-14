@@ -16,8 +16,5 @@ tags: [Results]
 
 ## Most active users
 
-![most_active](\covidinfspreading\assets\img\results\tabelle_most_active.png)
+![most_active](\covidinfspreading\assets\img\results\overall\tabelle_most_active.png)
 
-```
-sed -i 's/\"hostname\"\:.*$/\"hostname\"\: \"'$IPADDR'\"\,/g' open-falcon/agent/config/cfg.json
-```
