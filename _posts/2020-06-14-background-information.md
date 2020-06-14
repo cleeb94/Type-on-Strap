@@ -4,6 +4,7 @@ title: Background information
 feature-img: assets/img/pexels/covid19_zu.png
 author: Constanze Leeb
 tags: [Project, Background information, Information, Motivation, Corona, COVID-19]
+excerpt_separator: <!--more-->
 ---
 
 Even though, historically, pandemics seem to be the rule rather than the exception, the scope of the COVID-19 outbreak poses novel challenges due to the high global interconnectivity nowadays. But it is not only the disease that spreads rapidly. The term infodemic emphasizes the critical role of the spreading of (mis)information [1]. 
