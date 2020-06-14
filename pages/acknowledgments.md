@@ -11,7 +11,8 @@ This project was created in cooperation with the [Complexity Science Hub Vienna]
 The qualitative extraction of the narratives investigated was possible through the cooperation and work of the Austrian fakt-checking webiste [mimikama.at](https://www.mimikama.at/).
 
 Another thanks goes to Manuel Müller for his ideas and inspirations concerning statistical methods and their practical applications and to Surya Knöbel for his content recommendations and inputs. 
- 
-![CHS](\covidinfspreading\assets\img\csh.jpg)
-![Meicogsci](\covidinfspreading\assets\img\MEiCogSci-Logo-Vienna-RGB.svg)   
-![Uni Wien](\covidinfspreading\assets\img\Uni_Logo_2016.svg)
+
+<img src="\covidinfspreading\assets\img\csh.jpg" alt="CSH" width="500"/>
+<img src="\covidinfspreading\assets\img\MEiCogSci-Logo-Vienna-RGB.svg" alt="MEI:CogSci" width="500"/>
+<img src="\covidinfspreading\assets\img\Uni_Logo_2016.svg" alt="Uni Wien" width="500"/>
+
