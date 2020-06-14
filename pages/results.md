@@ -2,7 +2,7 @@
 layout: page
 title : Results 
 permalink: /results/
-feature-img: "assets/img/pexels/analytics.webp"
+feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Results]
 ---
 
