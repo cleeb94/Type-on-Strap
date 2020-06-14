@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: assets/img/pexels/books.png
+feature-img: assets/img/pexels/books.jpg
 tags: [About, Author, Contact]
 ---
 
