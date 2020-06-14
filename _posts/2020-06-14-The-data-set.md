@@ -5,6 +5,9 @@ feature-img: assets/img/pexels/network.jpg
 author: Constanze Leeb
 tags: [Project, Data set, Standard, Liveticker, most active users]
 ---
+Let's look at the data set:
+
+<!--more-->
 ### Hard Facts
 
 - comments of 91 Live-tickers of *der Standard*
