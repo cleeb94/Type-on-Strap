@@ -1,8 +1,8 @@
 ---
 layout: page
-title: The Project
+title: Project
 permalink: /about/
-feature-img: "assets/img/pexels/covid.jpeg"
+feature-img: "assets/img/pexels/covid.jpg"
 tags: [Project]
 ---
 
@@ -18,7 +18,7 @@ Our focus is Austria and we hope to gain valuable information about the spread o
 What topics play an important role for Austrians in the first months of the COVID-19 outbreak? Do conspiracy theories emerge and if so, which ones do, how prevalent are they and who is spreading them?
 
 
-[1] https://arxiv.org/abs/2003.05004
+[1] <https://arxiv.org/abs/2003.05004>
 
-[2] https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32526-7/fulltext?dgcid=raven_jbs_etoc_email
+[2]<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32526-7/fulltext?dgcid=raven_jbs_etoc_email>
  
