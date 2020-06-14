@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Background information
-feature-img: assets/img/pexels/covid19.jpg
+feature-img: assets/img/pexels/covid19_zu.png
 author: Constanze Leeb
 tags: [Project, Background information, Information, Motivation, Corona, COVID-19]
 ---
