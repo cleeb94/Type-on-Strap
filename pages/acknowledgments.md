@@ -12,7 +12,7 @@ The qualitative extraction of the narratives investigated was possible through t
 
 Another thanks goes to Manuel Müller for his ideas and inspirations concerning statistical methods and their practical applications and to Surya Knöbel for his content recommendations and inputs. 
 
-<img src="\covidinfspreading\assets\img\csh.jpg" alt="CSH" width="500"/>
-<img src="\covidinfspreading\assets\img\MEiCogSci-Logo-Vienna-RGB.svg" alt="MEI:CogSci" width="500"/>
-<img src="\covidinfspreading\assets\img\Uni_Logo_2016.svg" alt="Uni Wien" width="500"/>
+<img src="\covidinfspreading\assets\img\csh.jpg" alt="CSH" width="800"/>
+<img src="\covidinfspreading\assets\img\MEiCogSci-Logo-Vienna-RGB.jpg" alt="MEI:CogSci" width="800"/>
+<img src="\covidinfspreading\assets\img\Uni_Logo_2016.jpeg" alt="Uni Wien" width="800"/>
 
