@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About]
 ---
 
-My name is Constanze Leeb and I am currently studying Cognitive Science and Physics in my masters at the University of Vienna.
+My name is Constanze Leeb and I am currently studying [Cognitive Science](https://www.meicogsci.eu/) and [Physics](https://physik.univie.ac.at/en/) in my masters at the [University of Vienna](https://www.univie.ac.at/en/).
 
 Beforehand I studied Sociology and Physics in my bachelors also at the University of Vienna.
 
