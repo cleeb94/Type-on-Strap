@@ -1,9 +1,9 @@
 --- 
 layout: page
-title : Results 
-permalink: /results/
-feature-img: "assets/img/pexels/computer.jpeg"
-tags: [Results]
+title : Project 
+permalink: /project/
+feature-img: "assets/img/pexels/covid_statistik.jpg"
+tags: [Project]
 ---
 
 {% include portfolio.html %}
