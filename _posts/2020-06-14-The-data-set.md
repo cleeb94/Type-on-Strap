@@ -1,7 +1,9 @@
 ---
 layout: post
 title: The data set
-tags: [Results]
+feature-img: assets/img/pexels/covid19.jpg
+author: Constanze Leeb
+tags: [Project, Data set, Standard, Liveticker, most active users]
 ---
 
 # The data set
