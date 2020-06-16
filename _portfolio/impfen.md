@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Narrative "Vaccination"
-feature-img: assets/img/pexels/green2.jpg
+feature-img: assets/img/pexels/green2_zu_cover.png
 img: assets/img/pexels/green2_zu.png
 tags: [Vaccination, Narrative, Conspiracy Theory, Results, Project]
 excerpt_separator: <!--more-->
