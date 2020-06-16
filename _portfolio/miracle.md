@@ -2,7 +2,7 @@
 layout: post
 title: Narrative "Miracle Solution"
 feature-img: assets/img/pexels/brown.jpg
-img: assets/img/pexels/brown_zu.jpg
+img: assets/img/pexels/brown_zu.png
 tags: [Miracle Solution, Narrative, Conspiracy Theory, Results, Project]
 excerpt_separator: <!--more-->
 ---
