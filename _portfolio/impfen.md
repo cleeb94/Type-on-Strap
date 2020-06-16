@@ -34,7 +34,7 @@ Matches within the data set for the following words were collected (not case sen
 |nanochipping|nanochips||
 
 
-#### English
+#### English translation
 
 | English words |  |  | 
 | --- | --- | --- |
