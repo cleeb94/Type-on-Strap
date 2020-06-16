@@ -39,7 +39,8 @@ Matches within the data set for the following words were collected (not case sen
 | qanon | q| anon | world elite |
 | adrenochrome | adrenochromes | xavier | naidoo | 
 |elite | pizzagate | child abuse | pedophilia | 
-| reptiloids | reptiloids (different form in German) |reichsbürger | chemtrails |  | chemtrail |illuminati | freemasons| |
+| reptiloids | reptiloids (different form in German) |reichsbürger | chemtrails|
+|chemtrail |illuminati | freemasons| |
 
 #### Explanations of unusual words
 
