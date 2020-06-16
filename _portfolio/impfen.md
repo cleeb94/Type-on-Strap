@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Narrative "Vaccination"
-feature-img: assets/img/pexels/green.jpg
-img: assets/img/pexels/green_zu.png
+feature-img: assets/img/pexels/green2.jpg
+img: assets/img/pexels/green2_zu.png
 tags: [Vaccination, Narrative, Conspiracy Theory, Results, Project]
 excerpt_separator: <!--more-->
 ---
@@ -57,7 +57,7 @@ Microchipping/Microchips/Mikrochipping/Nanochipping/etc. = extremely small chips
 
 The following table shows the matches:
 
-| German words |  |  | 
+| Matches |  |  | 
 | --- | --- | --- |
 | gates: | 1048|impfstoff: | 3299|microchipping: |1|
 |  massenimpfen: |0| microchips: |6|mikrochip: |3|
