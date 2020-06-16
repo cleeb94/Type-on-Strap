@@ -27,22 +27,19 @@ Matches within the data set for the following words were collected (not case sen
 | German words |  |  |  |
 | --- | --- | --- | ---- | 
 | qanon | q| anon | weltelite |
-| adrenochrom | adrenochrome | xavier | naidoo | elite |
-| pizzagate | kindesmisshandlung | pädophilie | reptiloide|
-| deep state | reptiloiden|
-| reichsbürger | chemtrails | chemtrail | |
-| illuminati | freimaurer | |
+| adrenochrom | adrenochrome | xavier | naidoo | 
+|elite | pizzagate | kindesmisshandlung | pädophilie | 
+|reptiloide| reptiloiden| reichsbürger | chemtrails | 
+|chemtrail | illuminati | freimaurer | |
 
 #### English
 
 | English words |  |  |  |
 | --- | --- | --- | ---- | 
 | qanon | q| anon | world elite |
-| adrenochrome | adrenochromes | xavier | naidoo | elite |
-| pizzagate | child abuse | pedophilia | reptiloids |
-| deep state |  reptiloids (different form in German) |
-| reichsbürger | chemtrails | chemtrail | |
-| illuminati | freemasons| |
+| adrenochrome | adrenochromes | xavier | naidoo | 
+|elite | pizzagate | child abuse | pedophilia | 
+| reptiloids | reptiloids (different form in German) |reichsbürger | chemtrails |  | chemtrail |illuminati | freemasons| |
 
 #### Explanations of unusual words
 
@@ -73,12 +70,11 @@ The following table shows the matches:
 | --- | --- | --- | ---- | --- | ---- |
 | qanon: |37 |q:|0 |anon: | 9|
 |weltelite: |2| adrenochrom: |12 |adrenochrome: | 6|
-| xavier:| 58 | naidoo: |71 |elite: |324| pizzagate: | 10|
-|kindesmisshandlung: |0 |pädophilie: |4 |reptiloide:|18|
-| deep: | 157 |state: | 598|
-|reptiloiden:|114| reichsbürger: | 60|chemtrails: | 393|
-|chemtrail: |73 |illuminati: |42 |
-|freimaurer: |31 |
+| xavier:| 58 | naidoo: |71 |elite: |324| 
+| pizzagate: | 10|kindesmisshandlung: |0 |pädophilie: |4 |
+| reptiloide:|18|reptiloiden:|114| reichsbürger: | 60|
+| chemtrails: | 393|chemtrail: |73 |illuminati: |42 |
+|freimaurer: |31 | | | | |
 
 
 ### Relative frequency of comments associated with the narrative
