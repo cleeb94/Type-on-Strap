@@ -2,7 +2,7 @@
 layout: post
 title: Topic Modeling
 feature-img: assets/img/pexels/wörter.jpg
-img: assets/img/pexels/wörter.jpg
+img: assets/img/pexels/wörter_zu.png
 tags: [Topic Modeling, Results, Project]
 excerpt_separator: <!--more-->
 ---
