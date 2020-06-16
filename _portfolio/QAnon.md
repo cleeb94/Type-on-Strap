@@ -32,7 +32,7 @@ Matches within the data set for the following words were collected (not case sen
 |reptiloide| reptiloiden| reichsbürger | chemtrails | 
 |chemtrail | illuminati | freimaurer | |
 
-#### English
+#### English translation
 
 | English words |  |  |  |
 | --- | --- | --- | ---- | 
