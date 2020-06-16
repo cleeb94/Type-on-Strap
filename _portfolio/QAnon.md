@@ -93,7 +93,7 @@ The following plots show the **overall** activity of those users which were asso
 <img src="\covidinfspreading\assets\img\results\QAnon\Sohn JnowQAnon_activity_all_full.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\QAnon\Steely DanQAnon_activity_all_full.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\QAnon\Strange AlienQAnon_activity_all_full.png" alt="user" width="500"/>
-<img src="\covidinfspreading\assets\img\results\QAnon\taprobanerQAnon_activity_all_full" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\QAnon\taprobanerQAnon_activity_all_full.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\QAnon\to much cold coffeeQAnon_activity_all_full.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\QAnon\Wanda StockQAnon_activity_all_full.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\QAnon\zero28QAnon_activity_all_full.png" alt="user" width="500"/>
