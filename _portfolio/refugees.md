@@ -2,7 +2,7 @@
 layout: post
 title: Narrative "Refugees"
 feature-img: assets/img/pexels/blue.jpg
-img: assets/img/pexels/blue_zu.jpg
+img: assets/img/pexels/blue_zu.png
 tags: [Refugees, Narrative, Conspiracy Theory, Results, Project]
 excerpt_separator: <!--more-->
 ---
