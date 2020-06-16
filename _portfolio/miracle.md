@@ -67,12 +67,12 @@ The following plots show the **overall** activity of those users which were asso
 <img src="\covidinfspreading\assets\img\results\Miracle\table.png" alt="Refugees" width="900"/>
 
 <img src="\covidinfspreading\assets\img\results\Miracle\DevilsKittymiracle_activity_all.png" alt="user" width="500"/>
-<img src="\covidinfspreading\assets\img\results\Miracle\Ja bittemiracle_activity_all.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\Miracle\Herr Irgendwermiracle_activity_all.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\Miracle\Jakob Stainermiracle_activity_all.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\Miracle\kiwi_04miracle_activity_all.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\Miracle\Mariakickermiracle_activity_all.png" alt="user" width="500"/>
-<img src="\covidinfspreading\assets\img\results\Miracle\Rage against the dying of lightmiracle_activity_all.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\Miracle\pibytemiracle_activity_all.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\Miracle\Thinkrealmiracle_activity_all.png" alt="user" width="500"/>
-<img src="\covidinfspreading\assets\img\results\Miracle\Veilchenbeschleunigermiracle_activity_all.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\Miracle\Walter Pinkmanmiracle_activity_all.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\Miracle\Winston Smith.miracle_activity_all.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\Miracle\Wir_sind_die_99miracle_activity_all.png" alt="user" width="500"/>
