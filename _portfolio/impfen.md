@@ -78,8 +78,8 @@ The following plots show the **overall** activity of those users which were asso
 <img src="\covidinfspreading\assets\img\results\Impfen\table.png" alt="Vaccination" width="700"/>
 
 <img src="\covidinfspreading\assets\img\results\Impfen\Andreas Pruchaimpfen_activity_all_full.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\Impfen\BongoBingoimpfen_activity_all_full.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\Impfen\Der große Generalimpfen_activity_all_full.png" alt="user" width="500"/>
-<img src="\covidinfspreading\assets\img\results\Impfen\do_pruimpfen_activity_all_full.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\Impfen\gandi2807impfen_activity_all_full.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\Impfen\IchlassmirvonParteifanatikernnichtdasWortverbietenimpfen_activity_all_full.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\Impfen\Ja bitteimpfen_activity_all_full.png" alt="user" width="500"/>
