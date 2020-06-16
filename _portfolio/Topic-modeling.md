@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 * TOC
 {:toc}
 
-What topics are relevant for Austrian active online during the first month (27/02-20/03) of the COVID-19 pandemic?
+What topics are relevant for Austrians active online during the first month (27/02-20/03) of the COVID-19 pandemic?
 <!--more-->
 
 ### Extracted Topics
