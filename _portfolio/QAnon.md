@@ -85,16 +85,15 @@ The following table shows the matches:
 
 The following plots show the **overall** activity of those users which were associated the most (top 10) with the narrative. 
 
-
 <img src="\covidinfspreading\assets\img\results\QAnon\table.png" alt="QAnon" width="900"/>
 
-<img src="\covidinfspreading\assets\img\results\QAnon\angmar hexenkönigQAnon_activity_all_full.png" alt="user" width="500"/>
-<img src="\covidinfspreading\assets\img\results\QAnon\cannoneroQAnon_activity_all_full.png" alt="user" width="500"/>
-<img src="\covidinfspreading\assets\img\results\QAnon\Franky AQAnon_activity_all_full.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\QAnon\Andreas Bogeschdorfer1QAnon_activity_all_full.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\QAnon\gbautQAnon_activity_all_full.png" alt="user" width="500"/>
-<img src="\covidinfspreading\assets\img\results\QAnon\mortem hat postQAnon_activity_all_full.png" alt="user" width="500"/>
-<img src="\covidinfspreading\assets\img\results\QAnon\Offizieller Sponsor der Republik ÖsterreichQAnon_activity_all_full.png" alt="user" width="500"/>
-<img src="\covidinfspreading\assets\img\results\QAnon\The Knitting PirateQAnon_activity_all_full.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\QAnon\Ja bitteQAnon_activity_all_full.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\QAnon\Sohn JnowQAnon_activity_all_full.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\QAnon\Steely DanQAnon_activity_all_full.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\QAnon\Strange AlienQAnon_activity_all_full.png" alt="user" width="500"/>
+<img src="\covidinfspreading\assets\img\results\QAnon\taprobanerQAnon_activity_all_full" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\QAnon\to much cold coffeeQAnon_activity_all_full.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\QAnon\Wanda StockQAnon_activity_all_full.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\QAnon\zero28QAnon_activity_all_full.png" alt="user" width="500"/>
