@@ -14,12 +14,12 @@ One of the qualitatively extracted narratives concerns Refugees.
 <!--more-->
 ### Claims associated with the narrative
 
-- COVID-19 is used to distract from the fact that a large number of refugees are brought to Austria
-- Refugees are exempted from the COVID-19 countermeasurements
-- Refugees bring COVID-19 to Austria
+- COVID-19 is used to distract from the fact that a large number of refugees are brought to Austria.
+- Refugees are exempted from the COVID-19 countermeasurements.
+- Refugees bring COVID-19 to Austria.
 
 ### Associated words
-Matches within the data set for the following words were collected.
+Matches within the data set for the following words were collected (not case sensitiv).
 
 #### German
 
@@ -51,12 +51,27 @@ kickl = an Austrian right-wing politician (FPÖ)
 
 ### Matches
 
-{'flüchtlinge': 690, 'flüchtling': 55, 'wildon': 8, 'muslime': 63, 'islam': 88, 'kickl': 3262, 'migrant': 48, 'muslim': 21, 'migranten': 427, 'asyl': 154, 'asylant': 12, 'scheinasylant': 0, 'wirtschaftsflüchtling': 0, 'wirtschaftsflüchtlinge': 0, 'asylanten': 68, 'scheinasylanten': 0, 'einwanderung': 24}
+The following table shows the matches:
 
-### Relative frequency of comments associated with narrative
+| Matches |  |  | 
+| --- | --- | --- |
+| flüchtlinge |690 |islam | 88|scheinasylant |0|
+| flüchtling | 55|kickl |3262| scheinasylanten |0|
+| wildon |8 |migrant | 48|wirtschaftsflüchtling |0|
+| muslime |63 |migranten |427| wirtschaftsflüchtlinge|0 |
+| muslim |21 |asylanten |68| einwanderung |24|
+| asyl | 154|asylant |12 | ||
+
+
+
+
+### Relative frequency of comments associated with the narrative
 <img src="\covidinfspreading\assets\img\results\flüchtinge.png" alt="Refugees" width="500"/>
 
-### Most active users associated with narrative
+### Most active users associated with the narrative
+
+The following plots show the **overall** activity of those users which were associated the most (top 10) with the narrative. 
+
 <img src="\covidinfspreading\assets\img\results\Flüchtlinge\tabel_full.png" alt="Refugees" width="900"/>
 
 <img src="\covidinfspreading\assets\img\results\Flüchtlinge\alexanderlettenflüchtlinge_activity_all_final.png" alt="user" width="500"/>
