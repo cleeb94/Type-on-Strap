@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The data set
+title: The Data Set
 feature-img: assets/img/pexels/network.jpg
 img: assets/img/pexels/covid_statistik.jpg
 author: Constanze Leeb
@@ -20,10 +20,13 @@ Let's look at the data set:
 - 419.892 different words (after removal of Stopwords)
 - 19.261 users
 - from 25/02/2020-17/05/2020
-### Relative frequency of comments associated with narrative
+
+### Relative frequency of comments associated with at least one narrative
+
 <img src="\covidinfspreading\assets\img\results\activity_all_final.png" alt="Refugees" width="500"/>
 
-### Most active users associated with narrative
+### Most active users associated with at least one narrative
+
 <img src="\covidinfspreading\assets\img\results\Overall\tabelle_most_active.png" alt="most_active" width="500"/>
 
 <img src="\covidinfspreading\assets\img\results\Overall\angmar hexenkönigoverall_activity_all.png" alt="user" width="500"/>
