@@ -2,7 +2,7 @@
 layout: post
 title: Narrative "QAnon"
 feature-img: assets/img/pexels/violet.jpg
-img: assets/img/pexels/violet_zu.jpg
+img: assets/img/pexels/violet_zu.png
 tags: [QAnon, Narrative, Conspiracy Theory, Results, Project]
 excerpt_separator: <!--more-->
 ---
