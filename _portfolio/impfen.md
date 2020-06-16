@@ -13,55 +13,68 @@ One of the qualitatively extracted narratives concerns Vaccination.
 <!--more-->
 ### Claims associated with the narrative
 
-- COVID-19 is a construct by the pharma industry to gain more money
-- Bill Gates created COVID-19 to reduce the world population
-- Bill Gates plans a mass vaccination that will be compulsorary (to reduce the population with all the side effects)
-- the mass vaccination will be used to implant microchips 
+- COVID-19 is a construct by the pharma industry to gain more money.
+- Bill Gates created COVID-19 to reduce the world population.
+- Bill Gates plans a mass vaccination that will be compulsorary (to reduce the population with all the side effects).
+- The mass vaccination will be used to implant microchips.
 
 ### Associated words
-Matches within the data set for the following words were collected.
+Matches within the data set for the following words were collected (not case sensitiv).
 
 #### German
 
 | German words |  |  | 
 | --- | --- | --- |
-| bill gates | impfstoff | microchipping |
-| gates | massenimpfen | microships |
+| gates | impfstoff | microchipping |
+|  massenimpfen | micrcships |mikrochip |
 | impfen |massenimpfung | microship |
 | impfung | impfstoffe | mikrochipping |
-| big pharma | impfzwang | mikrochips |
-| pharmaindustrie | impfpflicht | mikrochip |
-|nanochipping|nanochips|nanochip|
+| pharma | impfzwang | mikrochips |
+| pharmaindustrie | impfpflicht | nanochip|
+|nanochipping|nanochips||
 
 
 #### English
 
 | English words |  |  | 
 | --- | --- | --- |
-| bill gates | vaccine | microchipping |
-| gates | mass vaccinating | microships |
+| gates| vaccine | microchipping |
+|  mass vaccinating | microchips |mikrochip |
 | to vaccinate | mass vaccination | microship |
 | vaccination | vaccines | mikrochipping |
-| big pharma | compulsorary vaccination | mikrochips |
-| pharma industry | mandatory vaccination | mikrochip |
-|nanochipping|nanochips|nanochip|
+| pharma | compulsorary vaccination | mikrochips |
+| pharma industry | mandatory vaccination | nanochip|
+|nanochipping|nanochips||
 
 #### Explanations of unusual words
 
-Bill Gates/Gates = strong supporter of vaccinations and one of the biggest financial supporters of the WHO, lead several vaccination campaigns throughout the world
+Gates (Bill Gates) = strong supporter of vaccinations and one of the biggest financial supporters of the WHO. He lead several vaccination campaigns throughout the world.
 
-Microshipping/Microships/Mikrochipping/Nanochipping/etc. = extremely small chips that can/and are being implented into humans, fear of control through those
+Microchipping/Microchips/Mikrochipping/Nanochipping/etc. = extremely small chips that can/and are being implented into humans. There exists the fear that through those one could be controled by others.
 
 
 #### Matches
 
-{'bill gates': 0, 'impfen': 921, 'impfung': 3188, 'konventionelle medizin': 0, 'big pharma': 0, 'pharmaindustrie': 190, 'impfstoff': 3299, 'massenimpfen': 0, 'massenimpfung': 5, 'impfstoffe': 328, 'impfzwang': 16, 'impfpflicht': 229, 'gates': 1048, 'microchipping': 1, 'microships': 0, 'microship': 0, 'mikrochipping': 0, 'mikrochips': 15, 'mikrochip': 3, 'nanochipping': 0, 'nanochips': 5, 'nanochip': 0}
+The following table shows the matches:
+
+| German words |  |  | 
+| --- | --- | --- |
+| gates: | 1048|impfstoff: | 3299|microchipping: |1|
+|  massenimpfen: |0| microchips: |6|mikrochip: |3|
+| impfen: |921|massenimpfung: |0 |microship: |5|
+| impfung: |3188| impfstoffe: | 328|mikrochipping: |0|
+| pharma: |276 |impfzwang: | 16|mikrochips: |15|
+| pharmaindustrie: | 190|impfpflicht: |229| nanochip:|0|
+|nanochipping:|0|nanochips|5|||
 
 
-### Relative frequency of comments associated with narrative
+### Relative frequency of comments associated with the narrative
 <img src="\covidinfspreading\assets\img\results\impfen.png" alt="Vaccination" width="500"/>
 
-### Most active users associated with narrative
+### Most active users associated with the narrative
+
+The following plots show the **overall** activity of those users which were associated the most (top 10) with the narrative. 
+
 <img src="\covidinfspreading\assets\img\results\Impfen\table.png" alt="Vaccination" width="700"/>
 
 <img src="\covidinfspreading\assets\img\results\Impfen\Andreas Pruchaimpfen_activity_all_full.png" alt="user" width="500"/>
