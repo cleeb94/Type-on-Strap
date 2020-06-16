@@ -2,7 +2,7 @@
 layout: post
 title: The Data Set
 feature-img: assets/img/pexels/network.jpg
-img: assets/img/pexels/covid_statistik.jpg
+img: assets/img/pexels/covid_statistik_zu.png
 author: Constanze Leeb
 tags: [Project, Data set, Standard, Liveticker, most active users]
 excerpt_separator: <!--more-->
