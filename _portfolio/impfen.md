@@ -75,7 +75,7 @@ The following table shows the matches:
 
 The following plots show the **overall** activity of those users which were associated the most (top 10) with the narrative. 
 
-<img src="\covidinfspreading\assets\img\results\Impfen\table.png" alt="Vaccination" width="700"/>
+<img src="\covidinfspreading\assets\img\results\Impfen\table.png" alt="Vaccination" width="900"/>
 
 <img src="\covidinfspreading\assets\img\results\Impfen\Andreas Pruchaimpfen_activity_all_full.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\Impfen\BongoBingoimpfen_activity_all_full.png" alt="user" width="500"/>
