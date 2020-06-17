@@ -1,8 +1,8 @@
 ---
 layout: post
 title: User Language Characterization
-feature-img: assets/img/pexels/
-img: assets/img/pexels/
+feature-img: assets/img/pexels/language.jpg
+img: assets/img/pexels/language.jpg
 tags: [User, Language, Characterization, Results, Project]
 excerpt_separator: <!--more-->
 ---
