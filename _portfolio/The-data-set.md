@@ -21,11 +21,17 @@ Let's look at the data set:
 - 19.261 users
 - from 25/02/2020-17/05/2020
 
-### Relative frequency of comments associated with at least one narrative
+### Lorenz curve
+
+The most active 10 % of users make up 85% of the comments.
+
+<img src="\covidinfspreading\assets\img\results\lorenz\lorenz.png" alt="lorenz" width="500"/>
+
+### Total number of comments
 
 <img src="\covidinfspreading\assets\img\results\activity_all_final.png" alt="Refugees" width="500"/>
 
-### Most active users associated with at least one narrative
+### Most active users 
 
 <img src="\covidinfspreading\assets\img\results\Overall\tabelle_most_active.png" alt="most_active" width="500"/>
 
