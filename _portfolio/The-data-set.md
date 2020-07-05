@@ -25,7 +25,7 @@ Let's look at the data set:
 
 The most active 10 % of users make up 85% of the comments.
 
-<img src="\covidinfspreading\assets\img\results\lorenz\lorenz.png" alt="lorenz" width="500"/>
+<img src="\covidinfspreading\assets\img\results\lorenz\lorenz.svg" alt="lorenz" width="600"/>
 
 ### Total number of comments
 
