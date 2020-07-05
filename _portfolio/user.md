@@ -24,20 +24,20 @@ All the comments of the users associated with at least one narrative are in the 
 
 #### Narrative: "Refugees"
 
-<img src="\covidinfspreading\assets\img\results\users\box_plot_fl.png" alt="5G" width="1200"/>
+<img src="\covidinfspreading\assets\img\results\users\box_plot_fl.svg" alt="5G" width="1200"/>
 
 #### Narrative: "5G"
 
-<img src="\covidinfspreading\assets\img\results\users\box_plot_5G.png" alt="5G" width="1200"/>
+<img src="\covidinfspreading\assets\img\results\users\box_plot_5G.svg" alt="5G" width="1200"/>
 
 #### Narrative: "QAnon"
 
-<img src="\covidinfspreading\assets\img\results\users\box_plot_QAnon.png" alt="5G" width="1200"/>
+<img src="\covidinfspreading\assets\img\results\users\box_plot_QAnon.svg" alt="5G" width="1200"/>
 
 #### Narrative: "Vaccination"
 
-<img src="\covidinfspreading\assets\img\results\users\box_plot_vaccination.png" alt="5G" width="1200"/>
+<img src="\covidinfspreading\assets\img\results\users\box_plot_vaccination.svg" alt="5G" width="1200"/>
 
 #### Narrative: "Miracle Solution"
 
-<img src="\covidinfspreading\assets\img\results\users\box_plot_miracle.png" alt="5G" width="1200"/>
+<img src="\covidinfspreading\assets\img\results\users\box_plot_miracle.svg" alt="5G" width="1200"/>
