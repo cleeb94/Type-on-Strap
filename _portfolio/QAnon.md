@@ -29,8 +29,8 @@ Matches within the data set for the following words were collected (not case sen
 | qanon | q| anon | weltelite |
 | adrenochrom | adrenochrome | xavier | naidoo | 
 |elite | pizzagate | kindesmisshandlung | pädophilie | 
-|reptiloide| reptiloiden| reichsbürger | chemtrails | 
-|chemtrail | illuminati | freimaurer | |
+| kindesmissbrauch | reptiloide| reptiloiden| reichsbürger |  
+|chemtrail | illuminati | freimaurer | chemtrails |
 
 #### English translation
 
@@ -39,8 +39,8 @@ Matches within the data set for the following words were collected (not case sen
 | qanon | q| anon | world elite |
 | adrenochrome | adrenochromes | xavier | naidoo | 
 |elite | pizzagate | child abuse | pedophilia | 
-| reptiloids | reptiloids (different form in German) |reichsbürger | chemtrails|
-|chemtrail |illuminati | freemasons| |
+| child abuse (different word in German)| reptiloids | reptiloids (different form in German) |reichsbürger |
+|chemtrail |illuminati | freemasons| chemtrails |
 
 #### Explanations of unusual words
 
@@ -74,12 +74,12 @@ The following table shows the matches:
 | xavier:| 58 | naidoo: |71 |elite: |324| 
 | pizzagate: | 10|kindesmisshandlung: |0 |pädophilie: |4 |
 | reptiloide:|18|reptiloiden:|114| reichsbürger: | 60|
-| chemtrails: | 393|chemtrail: |73 |illuminati: |42 |
-|freimaurer: |31 | | | | |
+| kindesmissbrauch: |0 |chemtrail: |73 |illuminati: |42 |
+|freimaurer: |31 |chemtrails: |393 | | |
 
 
 ### Relative frequency of comments associated with the narrative
-<img src="\covidinfspreading\assets\img\results\QAnon.png" alt="QAnon" width="500"/>
+<img src="\covidinfspreading\assets\img\results\QAnon_final_corr.svg" alt="QAnon" width="500"/>
 
 ### Most active users associated with the narrative
 
