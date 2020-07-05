@@ -79,13 +79,13 @@ The following table shows the matches:
 
 
 ### Relative frequency of comments associated with the narrative
-<img src="\covidinfspreading\assets\img\results\QAnon_final_corr.svg" alt="QAnon" width="700"/>
+<img src="\covidinfspreading\assets\img\results\QAnon_final_corr.svg" alt="QAnon" width="600"/>
 
 ### Most active users associated with the narrative
 
 The following plots show the **overall** activity of those users which were associated the most (top 10) with the narrative. 
 
-<img src="\covidinfspreading\assets\img\results\QAnon\table.png" alt="QAnon" width="900"/>
+<img src="\covidinfspreading\assets\img\results\QAnon\table.png" alt="QAnon" width="700"/>
 
 <img src="\covidinfspreading\assets\img\results\QAnon\Andreas Bogeschdorfer1QAnon_activity_all_full.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\QAnon\gbautQAnon_activity_all_full.png" alt="user" width="500"/>
