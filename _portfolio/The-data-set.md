@@ -29,7 +29,7 @@ The most active 10 % of users make up 85% of the comments.
 
 ### Total number of comments
 
-<img src="\covidinfspreading\assets\img\results\activity_all_final.png" alt="Refugees" width="500"/>
+<img src="\covidinfspreading\assets\img\results\activity_all_final.svg" alt="Refugees" width="600"/>
 
 ### Most active users 
 
