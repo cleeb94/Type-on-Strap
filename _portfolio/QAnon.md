@@ -79,7 +79,7 @@ The following table shows the matches:
 
 
 ### Relative frequency of comments associated with the narrative
-<img src="\covidinfspreading\assets\img\results\QAnon_final_corr.svg" alt="QAnon" width="500"/>
+<img src="\covidinfspreading\assets\img\results\QAnon_final_corr.svg" alt="QAnon" width="700"/>
 
 ### Most active users associated with the narrative
 
