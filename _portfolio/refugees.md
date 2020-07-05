@@ -66,7 +66,7 @@ The following table shows the matches:
 
 
 ### Relative frequency of comments associated with the narrative
-<img src="\covidinfspreading\assets\img\results\flüchtinge.png" alt="Refugees" width="500"/>
+<img src="\covidinfspreading\assets\img\results\flüchtinge.png" alt="Refugees" width="600"/>
 
 ### Most active users associated with the narrative
 
