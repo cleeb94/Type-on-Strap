@@ -1,5 +1,5 @@
 ---
 layout: page
-title: CSH COVID19 Info Point (https://csh.ac.at/covid19/)
+title: CSH
 feature-img: "assets/img/CSH_Logo.png"
 ---
