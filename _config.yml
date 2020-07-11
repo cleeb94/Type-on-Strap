@@ -5,7 +5,7 @@ url: "https://cleeb94.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: When emotions go viral - an analysis of the COVID-19 Infodemic                               # site's title
 description: "MEI:CogSci Project 2020"      # used by search engines
-avatar: assets/img/csh.jpg     # Empty for no avatar in navbar
+avatar: assets/img/CSH_Logo.pdf     # Empty for no avatar in navbar
 favicon:                         # Icon displayed in the tab
 
 # Header and footer text
