@@ -26,10 +26,14 @@
         {% assign name_page = "" %}
 
         {% for page in site.pages %}
-	    {%if page.title == CSH%}
-	    <a class = "clear" href = "https://csh.ac.at/covid19/">
+	{%if page.title == CSH%}
+	    <li class ="seaparator"> | </li>
+            <li>
+	   
+	    	<a class = "clear" href = "https://csh.ac.at/covid19/">
 		    {% if page.feature-img %} <img src=“/assets/img/CSH_Logo.png“>
-	    </a>
+	    	</a>
+	    </li>
 	    {%endif§}
             {% unless page.title == null or page.hide or name_page contains page.title %}
             <li class="separator"> | </li>
