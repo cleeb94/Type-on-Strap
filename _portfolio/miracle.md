@@ -64,7 +64,7 @@ The following table shows the matches:
 
 The following plots show the **overall** activity of those users which were associated the most (top 10) with the narrative. 
 
-<img src="\covidinfspreading\assets\img\results\Miracle\table.png" alt="Refugees" width="800"/>
+<img src="\covidinfspreading\assets\img\results\Miracle\table.png" alt="Refugees" width="600"/>
 
 <img src="\covidinfspreading\assets\img\results\Miracle\DevilsKittymiracle_activity_all.png" alt="user" width="500"/>
 <img src="\covidinfspreading\assets\img\results\Miracle\Herr Irgendwermiracle_activity_all.png" alt="user" width="500"/>
